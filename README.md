@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-Deep-Learning
+# Sentiment-Analysis-Deployement
 
 This project was developed as a part of Udacity's Deep Learning Nanodegree. In this project, i have created a Recurrent neural network from scratch using pytorch and deployed it using Amazon Sage Maker.
 
@@ -31,7 +31,7 @@ The deployment project which you will be working on is intended to be done using
 
 5. Note that your notebook name may be different than the one displayed and the IAM role that appears will be different.
 
-6. Next, scroll down to the section labelled Git repositories. Here you will clone the https://github.com/vickipedia6/Sentiment-Analysis-using-Deep-Learning.git.
+6. Next, scroll down to the section labelled Git repositories. Here you will clone the https://github.com/shyamStarwalt/Sentiment-Analysis-Deployment.git.
 
 
 You're done! Click on Create notebook instance.
